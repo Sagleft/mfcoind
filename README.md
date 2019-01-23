@@ -17,4 +17,4 @@ MFCoind
 ```
 MFCoind: error while loading shared libraries: libboost_system.so.1.53.0: cannot open shared object file: No such file or directory
 ```
-напишите мне в t.me/sagleft как дописать этот readme
+напишите мне в t.me/sagleft как дописать этот readme *ROFL*
