@@ -3,6 +3,8 @@
 
 ## Установка
 ```
+yum install -y epel-release
+yum install autoconf automake boost-devel gcc-c++ git libdb4-cxx libdb4-cxx-devel libevent-devel libtool openssl-devel wget miniupnpc-devel patch
 yum install -y git
 cd /tmp
 git clone https://github.com/Sagleft/mfcoind.git
@@ -13,8 +15,4 @@ mv MFCoind /usr/local/bin/
 ```
 MFCoind
 ```
-...не работает. 
-```
-MFCoind: error while loading shared libraries: libboost_system.so.1.53.0: cannot open shared object file: No such file or directory
-```
-напишите мне в t.me/sagleft как дописать этот readme *ROFL*
+Далее следуйте инструкциям.
